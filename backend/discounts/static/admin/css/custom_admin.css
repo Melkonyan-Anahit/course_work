@@ -1,0 +1,19 @@
+#nav-sidebar {
+    width: 180px !important;
+}
+
+@media (min-width: 768px) {
+    .main > #content {
+        margin-left: 190px !important;
+    }
+}
+
+#changelist-filter {
+    width: 240px !important;
+    float: right !important;
+    margin-left: 20px !important;
+}
+
+.change-list .actions + form {
+    display: block !important;
+}
